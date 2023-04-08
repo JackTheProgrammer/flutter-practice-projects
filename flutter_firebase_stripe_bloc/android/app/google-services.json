@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780380160248",
+    "project_id": "flutter-stripe-bloc",
+    "storage_bucket": "flutter-stripe-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780380160248:android:2e254c548e1bae3fc3fb0d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_stripe_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780380160248-10fmd0mjjef6mco257gvpvhdgjqtpf3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaB8FSe8WJRDmd66UQIfmw7rgmnYTY2Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780380160248-10fmd0mjjef6mco257gvpvhdgjqtpf3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

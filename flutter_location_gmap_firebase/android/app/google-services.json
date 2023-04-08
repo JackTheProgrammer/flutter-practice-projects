@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653912461223",
+    "project_id": "maps-and-live-location",
+    "storage_bucket": "maps-and-live-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653912461223:android:35bc9448ba23e8d58db082",
+        "android_client_info": {
+          "package_name": "com.example.flutter_location_gmap_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653912461223-o18j2cpgqsjblk9i3pg38bsbr2an5o84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9Y0jdRmo8znH1eWxqOYsgZGtPbntmvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653912461223-o18j2cpgqsjblk9i3pg38bsbr2an5o84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024036039377",
+    "project_id": "phihorizon-employee-checkins",
+    "storage_bucket": "phihorizon-employee-checkins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024036039377:android:80dff6518de115722573f0",
+        "android_client_info": {
+          "package_name": "com.example.phihorizon_checkin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024036039377-0rdbncrpvbdjrti2lshjs618qacr7ql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7DWnVQU1x1-x7EGUFSd_UI7s9-kTctQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024036039377-0rdbncrpvbdjrti2lshjs618qacr7ql8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
